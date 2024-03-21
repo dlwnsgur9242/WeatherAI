@@ -1,4 +1,4 @@
-# WeatherAI
+# WeatherAI Web
 Weather provision service by region in Korea using AI<br>
 AI를 활용한 국내 지역별 날씨 제공 서비스
 <br>
@@ -54,7 +54,7 @@ Weather API
 <br>
 
 ### 대한민국 지역의 데이터.csv
-### korean_city.csv
+# korean_city.csv
 ![image](https://github.com/dlwnsgur9242/WeatherAI/assets/90494150/25693f4c-4cfc-448a-8b45-7d59f63f8ce4)
 <br>
 <pre>
