@@ -48,7 +48,7 @@ Weather API
 ### streamlit 입출력
 ![image](https://github.com/dlwnsgur9242/WeatherAI/assets/90494150/bfe1adb1-3011-4407-9e18-d524edd9678f)
 
-### 대한민국 지역의 데이터.cvs
+### 대한민국 지역의 데이터.csv
 <pre>
 import pandas as pd
 
