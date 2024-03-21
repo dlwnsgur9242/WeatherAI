@@ -12,12 +12,7 @@ OpenAI Chat completions API
 Weather API
 </pre>
 <br>
-
-### korean_city.csv
-![image](https://github.com/dlwnsgur9242/WeatherAI/assets/90494150/25693f4c-4cfc-448a-8b45-7d59f63f8ce4)
 <br>
-<br>
-
 
 
 # Display
@@ -25,14 +20,16 @@ Weather API
 ![image](https://github.com/dlwnsgur9242/WeatherAI/assets/90494150/8f2517c9-cb33-422c-8ceb-68c9f45be5c9)
 <br>
 
+
 ### 천안 날씨에 대한 정보 출력
 ![image](https://github.com/dlwnsgur9242/WeatherAI/assets/90494150/5e4f2ef0-fbda-4c06-b555-0fb9980d18e3)
 <br>
 
+
 ### 태안 화씨 온도에 대한 정보 출력
 ![image](https://github.com/dlwnsgur9242/WeatherAI/assets/90494150/d397d24f-7671-452c-97c2-8e41cef8c2e9)
-
-
+<br>
+<br>
 
 
 # 주요 코드
@@ -40,15 +37,24 @@ Weather API
 ![image](https://github.com/dlwnsgur9242/WeatherAI/assets/90494150/7d78624b-80e3-48fd-a88e-c0931e095c1e)
 <br>
 
+
 ### run_conversation 함수 (OpenAI chat completions API)
 ![image](https://github.com/dlwnsgur9242/WeatherAI/assets/90494150/e8a6f87b-21e1-48e9-adc2-181109e221df)
 ![image](https://github.com/dlwnsgur9242/WeatherAI/assets/90494150/d99bfc8a-5d10-4355-9e9a-9487732e1065)
 <br>
 
+
 ### streamlit 입출력
 ![image](https://github.com/dlwnsgur9242/WeatherAI/assets/90494150/bfe1adb1-3011-4407-9e18-d524edd9678f)
 
+<br>
+<br>
+
+
 ### 대한민국 지역의 데이터.csv
+### korean_city.csv
+![image](https://github.com/dlwnsgur9242/WeatherAI/assets/90494150/25693f4c-4cfc-448a-8b45-7d59f63f8ce4)
+<br>
 <pre>
 import pandas as pd
 
