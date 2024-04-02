@@ -10,7 +10,7 @@ AI를 활용한 국내 지역별 날씨 제공 서비스
 conda 23.7.4
 jupyter notebook 6.5.4
 streamlit 1.32.0
-OpenAI Chat completions API
+OpenAI Chat completions API model="gpt-3.5-turbo"
 Weather API
 </pre>
 <br>
